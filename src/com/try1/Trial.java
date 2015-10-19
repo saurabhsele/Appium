@@ -15,7 +15,11 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-
+/**
+ * 
+ * @author saurabhrai
+ *
+ */
 public class Trial
 {
 	public static void main(String[] args) throws MalformedURLException, InterruptedException 
